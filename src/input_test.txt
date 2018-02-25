@@ -1,0 +1,10 @@
+bilanciatodispari,3,8,15,13,20,25,10,23,18,27
+bilanciatopari,3,9,15,5,13,20,25,10,23,18,27
+sbilanciatodispari,3,8,13,5,3,35,40,7,18,27
+sbilanciatopari,3,9,13,5,3,35,40,7,18,27,50
+genericorandom1,13,54,60
+genericorandom2,18,54,70
+genericorandom3,2,9,40
+genericorandom4,3,9,35
+genericorandom5,7,27,52
+genericorandom6,9,27,22
